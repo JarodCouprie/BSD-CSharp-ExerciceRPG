@@ -1,0 +1,15 @@
+C:\Users\jarod\source\repos\TPRPGPOO\bin\Debug\net6.0\TPRPGPOO.exe
+C:\Users\jarod\source\repos\TPRPGPOO\bin\Debug\net6.0\TPRPGPOO.deps.json
+C:\Users\jarod\source\repos\TPRPGPOO\bin\Debug\net6.0\TPRPGPOO.runtimeconfig.json
+C:\Users\jarod\source\repos\TPRPGPOO\bin\Debug\net6.0\TPRPGPOO.dll
+C:\Users\jarod\source\repos\TPRPGPOO\bin\Debug\net6.0\TPRPGPOO.pdb
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.csproj.AssemblyReference.cache
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.AssemblyInfoInputs.cache
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.AssemblyInfo.cs
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.csproj.CoreCompileInputs.cache
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.dll
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\refint\TPRPGPOO.dll
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.pdb
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\TPRPGPOO.genruntimeconfig.cache
+C:\Users\jarod\source\repos\TPRPGPOO\obj\Debug\net6.0\ref\TPRPGPOO.dll
